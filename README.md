@@ -2,6 +2,8 @@
 
 A kid‑friendly, bilingual (Japanese/English) web game for learning **colors** and **numbers** through fast, joyful quizzes. Runs entirely in the browser as a single HTML file—no build tools or servers required.
 
+Let's play it here!: https://noguchi-yukie.github.io/irotokazoo/index.html
+
 ## ✨ Features
 
 * **Two topics**
@@ -62,11 +64,13 @@ cd <your-repo>
 
 Add images like:
 
-```md
-![Start screen](docs/screenshot-start.png)
-![Color quiz](docs/screenshot-color.png)
-![Results](docs/screenshot-result.png)
-```
+![Start screen](docs/start_en.png)
+![Color quiz](docs/play_en.png)
+![Number quiz](docs/playNum_en.png)
+![Results](docs/result_en.png)
+
+
+
 
 ## 💡 Design & Accessibility Notes
 
